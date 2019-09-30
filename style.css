@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    display: grid;
+    margin: 20px;
+    
+}
+
+input {
+    height: 30px;
+    margin: 10px;
+}
+button {
+    height: 30px;
+    margin: 10px;
+}
+
+#output {
+    align-content: center;
+    height: 500px;
+    margin: 30px;
+    border: solid 1px black;
+
+}
